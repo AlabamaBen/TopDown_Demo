@@ -1,0 +1,7 @@
+{
+	"files.exclude": {
+		"D:/Unreal Projects/TopDownCPP/TopDown/.vscode": true,
+		"D:/Unreal Projects/TopDownCPP/TopDown/Content": true,
+		"D:/Unreal Projects/TopDownCPP/TopDown/Intermediate": true
+	}
+}
